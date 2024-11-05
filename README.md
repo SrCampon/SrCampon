@@ -4,6 +4,8 @@ Soy un estudiante de Ingeniería Informática en la Universidad de Extremadura, 
 
 ## 🔧 Habilidades técnicas
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ## 🌱 Actualmente aprendiendo
 
 ## 💡 Proyectos destacados
