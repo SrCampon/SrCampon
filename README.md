@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Miguel Ángel Campón!
 
-<!--
-**SrCampon/SrCampon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante de Ingeniería Informática en la Universidad de Extremadura, apasionado por el desarrollo de software, la seguridad informática y el diseño de sistemas de información. Tengo 22 años y, durante mis estudios, he trabajado en proyectos académicos que abarcan desde la creación de plataformas digitales hasta la implementación de soluciones de seguridad en redes telemáticas.
 
-Here are some ideas to get you started:
+## 🔧 Habilidades técnicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Actualmente aprendiendo
+
+## 💡 Proyectos destacados
+
+## 🌍 Sobre mí
+
+Me apasiona la tecnología y cómo se puede aplicar para resolver problemas del mundo real. Disfruto trabajando en equipo, explorando nuevas tecnologías y mejorando mis habilidades.
+
+## 📫 ¿Quieres conectar?
+
+Puedes encontrarme en:
+- [LinkedIn](https://www.linkedin.com/in/miguel-%C3%A1ngel-camp%C3%B3n-iglesias-66b0b732b/)
+
+¡Gracias por visitar mi perfil!
