@@ -19,3 +19,4 @@ Me apasiona la tecnología y cómo se puede aplicar para resolver problemas del 
 ## 📫 ¿Quieres conectar?
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/miguel-%C3%A1ngel-camp%C3%B3n-iglesias-66b0b732b/)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://www.linkedin.com/in/miguel-%C3%A1ngel-camp%C3%B3n-iglesias-66b0b732b/)
