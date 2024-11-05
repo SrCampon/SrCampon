@@ -18,7 +18,4 @@ Me apasiona la tecnología y cómo se puede aplicar para resolver problemas del 
 
 ## 📫 ¿Quieres conectar?
 
-Puedes encontrarme en:
 - [LinkedIn](https://www.linkedin.com/in/miguel-%C3%A1ngel-camp%C3%B3n-iglesias-66b0b732b/)
-
-¡Gracias por visitar mi perfil!
